@@ -62,7 +62,7 @@ const questions =
 ``` 
 
 ### Demo
-click [here] (https://gbevwunu.github.io/Quiz/) to test the application
+click [here](https://gbevwunu.github.io/Quiz/) to test the application
 
 
 
